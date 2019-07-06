@@ -8,9 +8,13 @@ Requirements:
 
 Dataset:
 Dog Images:https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+
 Human Images:https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
+
 Bottlenect Feature :
+
 Resnet50 : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz
+
 Vgg16 : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz
 
 The above alogorithm train on only 100 epochs and gives an test accuracy of around 70-80%.
