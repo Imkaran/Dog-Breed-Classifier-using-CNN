@@ -1,12 +1,13 @@
 # Dog-Breed-Classifier-using-CNN
 This application can classify a dog breed and also tells us whether image contain human or dog or not of them
 
-Requirements:
+ Requirements:
 1. OpenCV
 2. Tensorflow = 1.12
 3. Keras (latest version)
 
 Dataset:
+
 Dog Images:https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 
 Human Images:https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
