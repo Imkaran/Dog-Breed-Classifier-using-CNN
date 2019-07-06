@@ -6,21 +6,23 @@ This application can classify a dog breed and also tells us whether image contai
 2. Tensorflow = 1.12
 3. Keras (latest version)
 
-Dataset:
+##This algorithm is trained on 133 classess by 
+  1. defining own CNN architetcure
+  2. using transfer learning
 
-Dog Images:https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+##Dataset:
 
-Human Images:https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
+###Dog Images:https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 
-Bottlenect Feature :
+###Human Images:https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
 
-Resnet50 : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz
+###Bottlenect Feature :
 
-Vgg16 : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz
+####Resnet50 : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz
+
+####Vgg16 : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz
 
 The above alogorithm train on only 100 epochs and gives an test accuracy of around 70-80%.
 
-This algorithm is trained on 133 classess by 
-  1. defining own CNN architetcure
-  2. using transfer learning
+
  
